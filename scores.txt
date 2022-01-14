@@ -1,10 +1,13 @@
 Model performances
 
 Decision tree classifier
-Mean:  4.91437485764753
-Standard deviation:  1.0603138176818903
+Mean:  4.120114710056952
+Standard deviation:  1.0911064625221885
 
 Linear Regression
 Mean:  4.91437485764753
 Standard deviation:  1.0603138176818903
 ​
+3. Random forest classifier
+Mean:  3.107545198225268
+Standard deviation:  0.8627630022197671
