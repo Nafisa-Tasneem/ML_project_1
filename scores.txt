@@ -1,0 +1,10 @@
+Model performances
+
+Decision tree classifier
+Mean:  4.91437485764753
+Standard deviation:  1.0603138176818903
+
+Linear Regression
+Mean:  4.91437485764753
+Standard deviation:  1.0603138176818903
+​
